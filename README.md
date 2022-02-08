@@ -7,10 +7,10 @@ Sorting Algorithms included so far:
   - Mergesort.py
   - InsertionSort.py
   - BubbleSort.py
-  - HeapSort
+  - HeapSort.py
+  - BucketSort.py
 
 Algorithms coming in the near future:
   - Quicksort
-  - BucketSort
   - SelectionSort
   - RadixSort
